@@ -1,4 +1,4 @@
-# study_gradient_generator
+# gradient_generator
 
 In this app you can choose two colors and makes linear gradient from these colors as the background.
 
